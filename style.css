@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color:#9EA1D4;
+    position: relative;
+}
+.screen{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(rgb(253, 138, 138),rgb(253, 138, 138, 0.4)), url();;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+
+.form-box{
+    width: 380px;
+    height: 480px;
+    position: relative;
+    margin: 8% auto auto 65%;
+    border-radius: 10%;
+    background: #fff;
+    padding: 5px ;
+}
